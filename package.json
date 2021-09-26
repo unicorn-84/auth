@@ -1,0 +1,37 @@
+{
+  "name": "auth",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@hookform/resolvers": "^2.8.1",
+    "bulma": "^0.9.3",
+    "firebase": "^9.0.2",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-hook-form": "^7.16.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
+    "@jest/types": "^27.1.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@vitejs/plugin-react": "^1.0.0",
+    "babel-jest": "^27.2.2",
+    "jest": "^27.2.2",
+    "jest-css-modules-transform": "^4.3.0",
+    "regenerator-runtime": "^0.13.9",
+    "vite": "^2.5.4"
+  }
+}
